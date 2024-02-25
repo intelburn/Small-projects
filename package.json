@@ -1,0 +1,19 @@
+{
+  "name": "mortgage-calculator",
+  "version": "1.0.0",
+  "description": "Calculator for mortgage amounts and monthly costs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intelburn/Small-projects.git"
+  },
+  "author": "intelburn",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/intelburn/Small-projects/issues"
+  },
+  "homepage": "https://github.com/intelburn/Small-projects#readme"
+}
