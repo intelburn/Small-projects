@@ -3,6 +3,8 @@ This project is originally designed to answer the question of `What Principle ba
 This project will be written in node.js
 
 ## Steps
-[] Set up node
-[] Write a forward calculator that calculates monthly payment given a principle, term, and interest rate
-[] Write a reverse calculator that calculates the principle given the monthly payment, term, and interest rate
+
+- [x] Set up node
+- [ ] Write a forward calculator that calculates monthly payment given a principle, term, and interest rate
+- [ ] Make an index.js that deals with all kinds of calculations
+- [ ] Write a reverse calculator that calculates the principle given the monthly payment, term, and interest rate
