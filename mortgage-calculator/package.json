@@ -4,6 +4,7 @@
   "description": "Calculator for mortgage amounts and monthly costs",
   "main": "index.js",
   "scripts": {
+    "principle": "principle-to-monthly.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
